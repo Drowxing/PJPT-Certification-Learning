@@ -1,2 +1,2 @@
 # PJPT-Certification-Learning
-My own expirience lerning ethical hacking in TCM academy 
+My own expirience learning ethical hacking in TCM academy 
